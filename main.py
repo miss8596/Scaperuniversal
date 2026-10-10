@@ -176,7 +176,7 @@ TIER_2 = [
     ("US", "us"), ("FR", "fr")
 ]
 TIER_3 = [
-    ("US", "us"), ("DE", "de") 
+    ("US", "us"), ("DE", "de"), ("AU", "au")
 ]
 
 
