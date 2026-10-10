@@ -173,10 +173,14 @@ TIER_1 = [
     ("US", "us"), ("GB", "gb"), ("UK", "uk")
 ]
 TIER_2 = [
-    ("US", "us"), ("FR", "fr")
+    ("US", "us") ,("FR", "fr"), ("DE", "de"), ("NL", "nl"), ("ES", "es"),
+    ("IT", "it"), ("PL", "pl"), ("SE", "se"), ("BR", "br"),
+    ("KR", "kr"), ("TR", "tr"), ("VN", "vn"), ("ID", "id"),
+    ("CA", "ca"), ("JP", "jp"), ("SG", "sg")
+    
 ]
 TIER_3 = [
-    ("US", "us"), ("DE", "de"), ("AU", "au")
+    ("US", "us"), ("DE", "de"), ("AU", "au"), ("IN", "au")
 ]
 
 
